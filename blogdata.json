@@ -1,0 +1,2554 @@
+[
+ {
+ "name": "Title.But do you love it?",
+"size":      0,
+"imports": [
+ "Author.Roman Verraest",
+"Categorie.Business Consulting",
+"Tag.AE Foyer",
+"Date.2014-12",
+"Tag.Business Architecture",
+"Tag.Customer Journey",
+"Categorie.Enterprise Architecture" 
+] 
+},
+{
+ "name": "Title.Why not add some 'WHY' to your decision documents?",
+"size":      1,
+"imports": [
+ "Author.Wim Van Emelen",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2015-02",
+"Tag.Business value",
+"Tag.first time right",
+"Categorie.Enterprise Architecture",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Title.5 Questions about the challenges in the energy sector",
+"size":      1,
+"imports": [
+ "Author.Brigitte Narmon",
+"Categorie.Business Consulting",
+"Tag.Customer Journey",
+"Date.2015-02",
+"Tag.Digital Reference Architecture",
+"Tag.energy",
+"Tag.outside-in" 
+] 
+},
+{
+ "name": "Title.The AE Blog: Looking back and looking forward",
+"size":      0,
+"imports": [
+ "Author.AE admin",
+"Categorie.Business Consulting",
+"Tag.outside-in",
+"Date.2015-01" 
+] 
+},
+{
+ "name": "Title.Offline first: as simple as unplug & play?",
+"size":      0,
+"imports": [
+ "Author.Thomas Anciaux",
+"Categorie.Software Engineering",
+"Tag.Front-End Engineering",
+"Date.2015-01",
+"Tag.HTML5" 
+] 
+},
+{
+ "name": "Title.7 Deadly Sins for the CEO",
+"size":      0,
+"imports": [
+ "Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Customer Centric",
+"Date.2015-01",
+"Tag.Customer Journey" 
+] 
+},
+{
+ "name": "Title.Does your customer care about his journey and your touch points?",
+"size":      1,
+"imports": [
+ "Author.Filip Hendrickx",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-12",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Title.The Hackathon: Intrapreneurship's Dry Run",
+"size":      2,
+"imports": [
+ "Author.Jasper Verplanken",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-12",
+"Tag.Innovation",
+"Tag.Intrapreneurship",
+"Tag.Mobile (first)",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Title.Design smartphone first!",
+"size":      0,
+"imports": [
+ "Author.Sarah Denayer",
+"Categorie.Software Engineering",
+"Tag.Functional Analysis & Design",
+"Date.2014-12",
+"Tag.Mobile (first)" 
+] 
+},
+{
+ "name": "Title.AE Hackathon: Meet the ideas",
+"size":      0,
+"imports": [
+ "Author.AE admin",
+"Categorie.Business Consulting",
+"Tag.Innovation",
+"Date.2014-12",
+"Tag.Mobile (first)",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Title.The beer coaster analysis",
+"size":      0,
+"imports": [
+ "Author.Tom Princen",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2014-11",
+"Tag.Functional Analysis & Design",
+"Tag.Requirements" 
+] 
+},
+{
+ "name": "Title.New Customer Experience Insights: Go dining!",
+"size":      1,
+"imports": [
+ "Author.Tom Devos",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-11",
+"Tag.Customer Centric",
+"Tag.Customer Journey" 
+] 
+},
+{
+ "name": "Title.Why a hackathon is not a game",
+"size":      1,
+"imports": [
+ "Author.Valerie Taerwe",
+"Categorie.Business Consulting",
+"Tag.Digital Reference Architecture",
+"Date.2014-11",
+"Tag.Front-End Engineering",
+"Tag.Innovation",
+"Tag.Mobile (first)",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Title.Journeys and touch points: two sides of the same coin",
+"size":      1,
+"imports": [
+ "Author.Filip Hendrickx",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-11",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"size":      5,
+"imports": [
+ "Author.Glenn Dejaeger",
+"Categorie.Software Engineering",
+"Tag.AngularJS",
+"Date.2014-10",
+"Tag.Conference",
+"Tag.Front-End Engineering",
+"Tag.Innovation",
+"Tag.Mobile (first)" 
+] 
+},
+{
+ "name": "Title.Customer journeys as a strategy guide",
+"size":      1,
+"imports": [
+ "Author.Filip Hendrickx",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-10",
+"Tag.Business Architecture",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Title.Fronteers 2014 Takeaways",
+"size":      0,
+"imports": [
+ "Author.Thomas Anciaux",
+"Categorie.Software Engineering",
+"Tag.Conference",
+"Date.2014-10",
+"Tag.CSS",
+"Tag.HTML5",
+"Tag.JavaScript",
+"Tag.Mobile (first)" 
+] 
+},
+{
+ "name": "Title.Make Your Workshop Live",
+"size":      1,
+"imports": [
+ "Author.Igor Torfs",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-10",
+"Tag.Documentation" 
+] 
+},
+{
+ "name": "Title.Why people don't buy your product online",
+"size":      0,
+"imports": [
+ "Author.Tom Devos",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-10",
+"Tag.Customer Journey",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Title.Integration : Dr Jekyll and Mr Hyde",
+"size":      1,
+"imports": [
+ "Author.Bart Orbie",
+"Categorie.Enterprise Architecture",
+"Tag.Business Driven EA",
+"Date.2014-09",
+"Tag.Functional Analysis & Design",
+"Tag.Integration",
+"Tag.SOA" 
+] 
+},
+{
+ "name": "Title.ALM benefits",
+"size":      1,
+"imports": [
+ "Author.Frederick Beernaert",
+"Categorie.Enterprise Architecture",
+"Tag.ALM & SDLC",
+"Date.2014-09",
+"Tag.Predictability" 
+] 
+},
+{
+ "name": "Title.ALM - How to increase maturity in software delivery?",
+"size":      1,
+"imports": [
+ "Author.Frederick Beernaert",
+"Categorie.Enterprise Architecture",
+"Tag.ALM & SDLC",
+"Date.2014-09" 
+] 
+},
+{
+ "name": "Title.ALM - From business idea to working software",
+"size":      0,
+"imports": [
+ "Author.Frederick Beernaert",
+"Categorie.Enterprise Architecture",
+"Tag.ALM & SDLC",
+"Date.2014-09",
+"Tag.Predictability" 
+] 
+},
+{
+ "name": "Title.10 ways to make Scrum fail",
+"size":      0,
+"imports": [
+ "Author.Glenn Dejaeger",
+"Categorie.Business Consulting",
+"Tag.Agile",
+"Date.2014-08",
+"Tag.Project Management",
+"Tag.Scrum" 
+] 
+},
+{
+ "name": "Title.Why is your documentation getting out of date?",
+"size":      0,
+"imports": [
+ "Author.Sarah Denayer",
+"Categorie.Information Management",
+"Tag.Documentation",
+"Date.2014-08",
+"Tag.Functional Analysis & Design" 
+] 
+},
+{
+ "name": "Title.Relationsh<U+200B>ips, the essence of Outside-In Thinking",
+"size":      1,
+"imports": [
+ "Author.Frederik Willaert",
+"Categorie.Enterprise Architecture",
+"Tag.Business Driven EA",
+"Date.2014-08",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Title.4 BMC tools compared - Draft",
+"size":      0,
+"imports": [
+ "Author.Frederik Willaert",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Date.2014-08" 
+] 
+},
+{
+ "name": "Title.Why Everbody is Talking Analytics but Nobody is Doing it?",
+"size":      2,
+"imports": [
+ "Author.Bram Vanschoenwinkel",
+"Categorie.Information Management",
+"Tag.Analytics & Business Intelligence",
+"Date.2014-08",
+"Tag.Big Data & Analytics",
+"Tag.Innovation" 
+] 
+},
+{
+ "name": "Title.Google says your site is naughty",
+"size":      0,
+"imports": [
+ "Author.Tom Devos",
+"Categorie.Information Management",
+"Tag.Google",
+"Date.2014-07",
+"Tag.SEO" 
+] 
+},
+{
+ "name": "Title.No need to fear Cloud Computing?",
+"size":      0,
+"imports": [
+ "Author.Aline Coelst",
+"Categorie.Business Consulting",
+"Tag.Cloud & Infrastructure Industrialization",
+"Date.2014-07",
+"Tag.Legal" 
+] 
+},
+{
+ "name": "Title.From server virtualization to hybrid cloud",
+"size":      0,
+"imports": [
+ "Author.Wim Haedens",
+"Categorie.Business Consulting",
+"Tag.Cloud & Infrastructure Industrialization",
+"Date.2014-07" 
+] 
+},
+{
+ "name": "Title.The Product vs Project dimension",
+"size":      8,
+"imports": [
+ "Author.Sarah Denayer",
+"Categorie.Information Management",
+"Tag.Documentation",
+"Date.2014-07",
+"Tag.Functional Analysis & Design" 
+] 
+},
+{
+ "name": "Title.Customer Centricity - What about Technology?",
+"size":      2,
+"imports": [
+ "Author.Johan Merckx",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-07",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Tag.Integration" 
+] 
+},
+{
+ "name": "Title.Customer Centricity - Turning your business model around",
+"size":      1,
+"imports": [
+ "Author.Johan Merckx",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-06",
+"Tag.Customer Centric",
+"Tag.Customer Journey" 
+] 
+},
+{
+ "name": "Title.EACBPM 2014 - Some conference themes",
+"size":      0,
+"imports": [
+ "Author.Filip Hendrickx",
+"Categorie.Enterprise Architecture",
+"Tag.Business Architecture",
+"Date.2014-06",
+"Tag.Business Driven EA",
+"Tag.Business Process Management",
+"Tag.Conference" 
+] 
+},
+{
+ "name": "Title.From Organisation to Customer Centric",
+"size":      1,
+"imports": [
+ "Author.Johan Merckx",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-06",
+"Tag.Business Architecture",
+"Tag.Customer Centric" 
+] 
+},
+{
+ "name": "Title.Techorama 2014 takeaways",
+"size":      0,
+"imports": [
+ "Author.Jo Van Eyck",
+"Categorie.Software Engineering",
+"Tag.ALM & SDLC",
+"Date.2014-06",
+"Tag.Conference",
+"Tag.Security",
+"Tag.Web Development" 
+] 
+},
+{
+ "name": "Title.The visitor pattern in C#, part I - Draft",
+"size":      0,
+"imports": [
+ "Author.Jeroen Haegebaert",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Date.2014-06" 
+] 
+},
+{
+ "name": "Title.How to use Composite Indexes",
+"size":      1,
+"imports": [
+ "Author.Gert Nelissen",
+"Categorie.Information Management",
+"Tag.Composite Index",
+"Date.2014-06",
+"Tag.Covering Index",
+"Tag.Database",
+"Tag.Execution Plan",
+"Tag.Indexes",
+"Tag.Query Optimisation",
+"Tag.SQL Server",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Title.The value driven PM lifecycle - Draft",
+"size":      0,
+"imports": [
+ "Author.Filip Hendrickx",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Date.2014-06" 
+] 
+},
+{
+ "name": "Title.Enterprise Architect, from policeman to entrepreneur? - Draft",
+"size":      0,
+"imports": [
+ "Author.Johan Merckx",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Date.2014-05" 
+] 
+},
+{
+ "name": "Title.Some take aways from the 23rd BAEA Cafe with Chris Potts",
+"size":      2,
+"imports": [
+ "Author.Filip Hendrickx",
+"Categorie.Enterprise Architecture",
+"Tag.Business Driven EA",
+"Date.2014-05",
+"Tag.Project Management",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Title.Customer Journeys - Are we really going outside in? - Draft",
+"size":      0,
+"imports": [
+ "Author.Johan Merckx",
+"Categorie.Speciale Reserve Categorie",
+"Tag.Customer Journey",
+"Date.2014-05" 
+] 
+},
+{
+ "name": "Title.Business Cases: getting money or creating value?",
+"size":      2,
+"imports": [
+ "Author.Johan Merckx",
+"Categorie.Business Consulting",
+"Tag.Project Management",
+"Date.2014-05" 
+] 
+},
+{
+ "name": "Title.Identify the stakeholders of your analysis",
+"size":      0,
+"imports": [
+ "Author.Sarah Denayer",
+"Categorie.Information Management",
+"Tag.Functional Analysis & Design",
+"Date.2014-05" 
+] 
+},
+{
+ "name": "Title.Please stop writing 200 page documents",
+"size":      0,
+"imports": [
+ "Author.Sarah Denayer",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2014-04",
+"Tag.Requirements" 
+] 
+},
+{
+ "name": "Title.Uw gegevens zijn uw reputatie",
+"size":      0,
+"imports": [
+ "Author.Guido Van Humbeeck",
+"Categorie.Information Management",
+"Tag.Customer Centric",
+"Date.2014-04",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Title.EA on its own delivers no value",
+"size":      0,
+"imports": [
+ "Author.Johan Merckx",
+"Categorie.Enterprise Architecture",
+"Tag.Outside-In Architecture",
+"Date.2014-02",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Title.Requirements are dead",
+"size":      0,
+"imports": [
+ "Author.Robrecht David",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2014-02",
+"Tag.Requirements" 
+] 
+},
+{
+ "name": "Title.Take an Outside-in Perspective",
+"size":      0,
+"imports": [
+ "Author.Johan Merckx",
+"Categorie.Enterprise Architecture",
+"Tag.Customer Centric",
+"Date.2014-02",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Title.Are user stories and use cases at war?",
+"size":      0,
+"imports": [
+ "Author.Sarah Denayer",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2014-02",
+"Tag.Requirements",
+"Tag.Use Cases",
+"Tag.User Stories" 
+] 
+},
+{
+ "name": "Title.Business requirement or atomic requirement?",
+"size":      0,
+"imports": [
+ "Author.Robrecht David",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2014-01",
+"Tag.Requirements" 
+] 
+},
+{
+ "name": "Title.The Road to Continuous Delivery",
+"size":      0,
+"imports": [
+ "Author.Jo Van Eyck",
+"Categorie.Enterprise Architecture",
+"Tag.Agile",
+"Date.2014-01",
+"Tag.Project Management",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Title.Push to add drama: CXO-lunch met Jan Dobbenie",
+"size":      1,
+"imports": [
+ "Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Innovation",
+"Date.2014-01",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Title.Simplicity and change",
+"size":      0,
+"imports": [
+ "Author.Filip Hendrickx",
+"Categorie.Business Consulting",
+"Tag.Business Architecture",
+"Date.2013-09",
+"Tag.Innovation" 
+] 
+},
+{
+ "name": "Title.Open brief aan de CEO",
+"size":      0,
+"imports": [
+ "Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Innovation",
+"Date.2013-06",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Title.Nieuwjaarsbrief van ICT",
+"size":      0,
+"imports": [
+ "Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2013-01",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Title.ICT-groeten uit Barcelona",
+"size":      0,
+"imports": [
+ "Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Innovation",
+"Date.2012-12",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Title.Informatie modelleren was, is en zal zijn",
+"size":      0,
+"imports": [
+ "Author.Geert Sprengers",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2012-11",
+"Tag.Requirements" 
+] 
+},
+{
+ "name": "Author.Roman Verraest",
+"size":      0,
+"imports": [
+ "Title.But do you love it?",
+"Categorie.Business Consulting",
+"Tag.AE Foyer",
+"Date.2014-12",
+"Tag.Business Architecture",
+"Tag.Customer Journey",
+"Categorie.Enterprise Architecture" 
+] 
+},
+{
+ "name": "Author.Wim Van Emelen",
+"size":      1,
+"imports": [
+ "Title.Why not add some 'WHY' to your decision documents?",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2015-02",
+"Tag.Business value",
+"Tag.first time right",
+"Categorie.Enterprise Architecture",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Author.Brigitte Narmon",
+"size":      1,
+"imports": [
+ "Title.5 Questions about the challenges in the energy sector",
+"Categorie.Business Consulting",
+"Tag.Customer Journey",
+"Date.2015-02",
+"Tag.Digital Reference Architecture",
+"Tag.energy",
+"Tag.outside-in" 
+] 
+},
+{
+ "name": "Author.AE admin",
+"size":      0,
+"imports": [
+ "Title.The AE Blog: Looking back and looking forward",
+"Categorie.Business Consulting",
+"Tag.outside-in",
+"Date.2015-01",
+"Title.AE Hackathon: Meet the ideas",
+"Tag.Innovation",
+"Date.2014-12",
+"Tag.Mobile (first)",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Author.Thomas Anciaux",
+"size":      0,
+"imports": [
+ "Title.Offline first: as simple as unplug & play?",
+"Categorie.Software Engineering",
+"Tag.Front-End Engineering",
+"Date.2015-01",
+"Tag.HTML5",
+"Title.Fronteers 2014 Takeaways",
+"Tag.Conference",
+"Date.2014-10",
+"Tag.CSS",
+"Tag.JavaScript",
+"Tag.Mobile (first)" 
+] 
+},
+{
+ "name": "Author.Guido Van Humbeeck",
+"size":      0,
+"imports": [
+ "Title.7 Deadly Sins for the CEO",
+"Categorie.Business Consulting",
+"Tag.Customer Centric",
+"Date.2015-01",
+"Tag.Customer Journey",
+"Title.Uw gegevens zijn uw reputatie",
+"Categorie.Information Management",
+"Date.2014-04",
+"Tag.Strategy",
+"Title.Push to add drama: CXO-lunch met Jan Dobbenie",
+"Tag.Innovation",
+"Date.2014-01",
+"Tag.Outside-In Architecture",
+"Title.Open brief aan de CEO",
+"Date.2013-06",
+"Title.Nieuwjaarsbrief van ICT",
+"Tag.Business Analysis",
+"Date.2013-01",
+"Title.ICT-groeten uit Barcelona",
+"Date.2012-12" 
+] 
+},
+{
+ "name": "Author.Filip Hendrickx",
+"size":      0,
+"imports": [
+ "Title.Does your customer care about his journey and your touch points?",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-12",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Tag.Outside-In Architecture",
+"Title.Journeys and touch points: two sides of the same coin",
+"Date.2014-11",
+"Title.Customer journeys as a strategy guide",
+"Date.2014-10",
+"Tag.Business Architecture",
+"Title.EACBPM 2014 - Some conference themes",
+"Categorie.Enterprise Architecture",
+"Date.2014-06",
+"Tag.Business Driven EA",
+"Tag.Business Process Management",
+"Tag.Conference",
+"Title.The value driven PM lifecycle - Draft",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Title.Some take aways from the 23rd BAEA Cafe with Chris Potts",
+"Date.2014-05",
+"Tag.Project Management",
+"Tag.Strategy",
+"Title.Simplicity and change",
+"Date.2013-09",
+"Tag.Innovation" 
+] 
+},
+{
+ "name": "Author.Jasper Verplanken",
+"size":      2,
+"imports": [
+ "Title.The Hackathon: Intrapreneurship's Dry Run",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-12",
+"Tag.Innovation",
+"Tag.Intrapreneurship",
+"Tag.Mobile (first)",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Author.Sarah Denayer",
+"size":      0,
+"imports": [
+ "Title.Design smartphone first!",
+"Categorie.Software Engineering",
+"Tag.Functional Analysis & Design",
+"Date.2014-12",
+"Tag.Mobile (first)",
+"Title.Why is your documentation getting out of date?",
+"Categorie.Information Management",
+"Tag.Documentation",
+"Date.2014-08",
+"Title.The Product vs Project dimension",
+"Date.2014-07",
+"Title.Identify the stakeholders of your analysis",
+"Date.2014-05",
+"Title.Please stop writing 200 page documents",
+"Tag.Business Analysis",
+"Date.2014-04",
+"Tag.Requirements",
+"Title.Are user stories and use cases at war?",
+"Date.2014-02",
+"Tag.Use Cases",
+"Tag.User Stories" 
+] 
+},
+{
+ "name": "Author.Tom Princen",
+"size":      0,
+"imports": [
+ "Title.The beer coaster analysis",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2014-11",
+"Tag.Functional Analysis & Design",
+"Tag.Requirements" 
+] 
+},
+{
+ "name": "Author.Tom Devos",
+"size":      0,
+"imports": [
+ "Title.New Customer Experience Insights: Go dining!",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-11",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Title.Why people don't buy your product online",
+"Date.2014-10",
+"Tag.Outside-In Architecture",
+"Title.Google says your site is naughty",
+"Categorie.Information Management",
+"Tag.Google",
+"Date.2014-07",
+"Tag.SEO" 
+] 
+},
+{
+ "name": "Author.Valerie Taerwe",
+"size":      1,
+"imports": [
+ "Title.Why a hackathon is not a game",
+"Categorie.Business Consulting",
+"Tag.Digital Reference Architecture",
+"Date.2014-11",
+"Tag.Front-End Engineering",
+"Tag.Innovation",
+"Tag.Mobile (first)",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Author.Glenn Dejaeger",
+"size":      0,
+"imports": [
+ "Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"Categorie.Software Engineering",
+"Tag.AngularJS",
+"Date.2014-10",
+"Tag.Conference",
+"Tag.Front-End Engineering",
+"Tag.Innovation",
+"Tag.Mobile (first)",
+"Title.10 ways to make Scrum fail",
+"Categorie.Business Consulting",
+"Tag.Agile",
+"Date.2014-08",
+"Tag.Project Management",
+"Tag.Scrum" 
+] 
+},
+{
+ "name": "Author.Igor Torfs",
+"size":      1,
+"imports": [
+ "Title.Make Your Workshop Live",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-10",
+"Tag.Documentation" 
+] 
+},
+{
+ "name": "Author.Bart Orbie",
+"size":      1,
+"imports": [
+ "Title.Integration : Dr Jekyll and Mr Hyde",
+"Categorie.Enterprise Architecture",
+"Tag.Business Driven EA",
+"Date.2014-09",
+"Tag.Functional Analysis & Design",
+"Tag.Integration",
+"Tag.SOA" 
+] 
+},
+{
+ "name": "Author.Frederick Beernaert",
+"size":      0,
+"imports": [
+ "Title.ALM benefits",
+"Categorie.Enterprise Architecture",
+"Tag.ALM & SDLC",
+"Date.2014-09",
+"Tag.Predictability",
+"Title.ALM - How to increase maturity in software delivery?",
+"Title.ALM - From business idea to working software" 
+] 
+},
+{
+ "name": "Author.Frederik Willaert",
+"size":      0,
+"imports": [
+ "Title.Relationsh<U+200B>ips, the essence of Outside-In Thinking",
+"Categorie.Enterprise Architecture",
+"Tag.Business Driven EA",
+"Date.2014-08",
+"Tag.Outside-In Architecture",
+"Title.4 BMC tools compared - Draft",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-" 
+] 
+},
+{
+ "name": "Author.Bram Vanschoenwinkel",
+"size":      2,
+"imports": [
+ "Title.Why Everbody is Talking Analytics but Nobody is Doing it?",
+"Categorie.Information Management",
+"Tag.Analytics & Business Intelligence",
+"Date.2014-08",
+"Tag.Big Data & Analytics",
+"Tag.Innovation" 
+] 
+},
+{
+ "name": "Author.Aline Coelst",
+"size":      0,
+"imports": [
+ "Title.No need to fear Cloud Computing?",
+"Categorie.Business Consulting",
+"Tag.Cloud & Infrastructure Industrialization",
+"Date.2014-07",
+"Tag.Legal" 
+] 
+},
+{
+ "name": "Author.Wim Haedens",
+"size":      0,
+"imports": [
+ "Title.From server virtualization to hybrid cloud",
+"Categorie.Business Consulting",
+"Tag.Cloud & Infrastructure Industrialization",
+"Date.2014-07" 
+] 
+},
+{
+ "name": "Author.Johan Merckx",
+"size":      0,
+"imports": [
+ "Title.Customer Centricity - What about Technology?",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Date.2014-07",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Tag.Integration",
+"Title.Customer Centricity - Turning your business model around",
+"Date.2014-06",
+"Title.From Organisation to Customer Centric",
+"Tag.Business Architecture",
+"Title.Enterprise Architect, from policeman to entrepreneur? - Draft",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Date.2014-05",
+"Title.Customer Journeys - Are we really going outside in? - Draft",
+"Title.Business Cases: getting money or creating value?",
+"Tag.Project Management",
+"Title.EA on its own delivers no value",
+"Categorie.Enterprise Architecture",
+"Tag.Outside-In Architecture",
+"Date.2014-02",
+"Tag.Strategy",
+"Title.Take an Outside-in Perspective" 
+] 
+},
+{
+ "name": "Author.Jo Van Eyck",
+"size":      0,
+"imports": [
+ "Title.Techorama 2014 takeaways",
+"Categorie.Software Engineering",
+"Tag.ALM & SDLC",
+"Date.2014-06",
+"Tag.Conference",
+"Tag.Security",
+"Tag.Web Development",
+"Title.The Road to Continuous Delivery",
+"Categorie.Enterprise Architecture",
+"Tag.Agile",
+"Date.2014-01",
+"Tag.Project Management" 
+] 
+},
+{
+ "name": "Author.Jeroen Haegebaert",
+"size":      0,
+"imports": [
+ "Title.The visitor pattern in C#, part I - Draft",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Date.2014-06" 
+] 
+},
+{
+ "name": "Author.Gert Nelissen",
+"size":      1,
+"imports": [
+ "Title.How to use Composite Indexes",
+"Categorie.Information Management",
+"Tag.Composite Index",
+"Date.2014-06",
+"Tag.Covering Index",
+"Tag.Database",
+"Tag.Execution Plan",
+"Tag.Indexes",
+"Tag.Query Optimisation",
+"Tag.SQL Server",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Author.Robrecht David",
+"size":      0,
+"imports": [
+ "Title.Requirements are dead",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2014-02",
+"Tag.Requirements",
+"Title.Business requirement or atomic requirement?",
+"Date.2014-01" 
+] 
+},
+{
+ "name": "Author.Geert Sprengers",
+"size":      0,
+"imports": [
+ "Title.Informatie modelleren was, is en zal zijn",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Date.2012-11",
+"Tag.Requirements" 
+] 
+},
+{
+ "name": "Categorie.Business Consulting",
+"size":      0,
+"imports": [
+ "Title.But do you love it?",
+"Author.Roman Verraest",
+"Tag.AE Foyer",
+"Date.2014-12",
+"Tag.Business Architecture",
+"Tag.Customer Journey",
+"Title.Why not add some 'WHY' to your decision documents?",
+"Author.Wim Van Emelen",
+"Tag.Business Analysis",
+"Date.2015-02",
+"Tag.Business value",
+"Tag.first time right",
+"Title.5 Questions about the challenges in the energy sector",
+"Author.Brigitte Narmon",
+"Tag.Digital Reference Architecture",
+"Tag.energy",
+"Tag.outside-in",
+"Title.The AE Blog: Looking back and looking forward",
+"Author.AE admin",
+"Date.2015-01",
+"Title.7 Deadly Sins for the CEO",
+"Author.Guido Van Humbeeck",
+"Tag.Customer Centric",
+"Title.Does your customer care about his journey and your touch points?",
+"Author.Filip Hendrickx",
+"Tag.Outside-In Architecture",
+"Title.The Hackathon: Intrapreneurship's Dry Run",
+"Author.Jasper Verplanken",
+"Tag.Innovation",
+"Tag.Intrapreneurship",
+"Tag.Mobile (first)",
+"Title.AE Hackathon: Meet the ideas",
+"Title.New Customer Experience Insights: Go dining!",
+"Author.Tom Devos",
+"Date.2014-11",
+"Title.Why a hackathon is not a game",
+"Author.Valerie Taerwe",
+"Tag.Front-End Engineering",
+"Title.Journeys and touch points: two sides of the same coin",
+"Title.Customer journeys as a strategy guide",
+"Date.2014-10",
+"Title.Make Your Workshop Live",
+"Author.Igor Torfs",
+"Tag.Documentation",
+"Title.Why people don't buy your product online",
+"Title.10 ways to make Scrum fail",
+"Author.Glenn Dejaeger",
+"Tag.Agile",
+"Date.2014-08",
+"Tag.Project Management",
+"Tag.Scrum",
+"Title.No need to fear Cloud Computing?",
+"Author.Aline Coelst",
+"Tag.Cloud & Infrastructure Industrialization",
+"Date.2014-07",
+"Tag.Legal",
+"Title.From server virtualization to hybrid cloud",
+"Author.Wim Haedens",
+"Title.Customer Centricity - What about Technology?",
+"Author.Johan Merckx",
+"Tag.Integration",
+"Title.Customer Centricity - Turning your business model around",
+"Date.2014-06",
+"Title.From Organisation to Customer Centric",
+"Title.Business Cases: getting money or creating value?",
+"Date.2014-05",
+"Title.Push to add drama: CXO-lunch met Jan Dobbenie",
+"Date.2014-01",
+"Title.Simplicity and change",
+"Date.2013-09",
+"Title.Open brief aan de CEO",
+"Date.2013-06",
+"Tag.Strategy",
+"Title.Nieuwjaarsbrief van ICT",
+"Date.2013-01",
+"Title.ICT-groeten uit Barcelona",
+"Date.2012-12" 
+] 
+},
+{
+ "name": "Categorie.Enterprise Architecture",
+"size":      0,
+"imports": [
+ "Title.But do you love it?",
+"Author.Roman Verraest",
+"Tag.AE Foyer",
+"Date.2014-12",
+"Tag.Business Architecture",
+"Tag.Customer Journey",
+"Title.Why not add some 'WHY' to your decision documents?",
+"Author.Wim Van Emelen",
+"Tag.Business Analysis",
+"Date.2015-02",
+"Tag.Business value",
+"Tag.first time right",
+"Title.Integration : Dr Jekyll and Mr Hyde",
+"Author.Bart Orbie",
+"Tag.Business Driven EA",
+"Date.2014-09",
+"Tag.Functional Analysis & Design",
+"Tag.Integration",
+"Tag.SOA",
+"Title.ALM benefits",
+"Author.Frederick Beernaert",
+"Tag.ALM & SDLC",
+"Tag.Predictability",
+"Title.ALM - How to increase maturity in software delivery?",
+"Title.ALM - From business idea to working software",
+"Title.Relationsh<U+200B>ips, the essence of Outside-In Thinking",
+"Author.Frederik Willaert",
+"Date.2014-08",
+"Tag.Outside-In Architecture",
+"Title.EACBPM 2014 - Some conference themes",
+"Author.Filip Hendrickx",
+"Date.2014-06",
+"Tag.Business Process Management",
+"Tag.Conference",
+"Title.Some take aways from the 23rd BAEA Cafe with Chris Potts",
+"Date.2014-05",
+"Tag.Project Management",
+"Tag.Strategy",
+"Title.EA on its own delivers no value",
+"Author.Johan Merckx",
+"Date.2014-02",
+"Title.Take an Outside-in Perspective",
+"Tag.Customer Centric",
+"Title.The Road to Continuous Delivery",
+"Author.Jo Van Eyck",
+"Tag.Agile",
+"Date.2014-01" 
+] 
+},
+{
+ "name": "Categorie.Software Engineering",
+"size":      0,
+"imports": [
+ "Title.Why not add some 'WHY' to your decision documents?",
+"Author.Wim Van Emelen",
+"Tag.Business Analysis",
+"Date.2015-02",
+"Tag.Business value",
+"Tag.first time right",
+"Title.Offline first: as simple as unplug & play?",
+"Author.Thomas Anciaux",
+"Tag.Front-End Engineering",
+"Date.2015-01",
+"Tag.HTML5",
+"Title.The Hackathon: Intrapreneurship's Dry Run",
+"Author.Jasper Verplanken",
+"Date.2014-12",
+"Tag.Innovation",
+"Tag.Intrapreneurship",
+"Tag.Mobile (first)",
+"Title.Design smartphone first!",
+"Author.Sarah Denayer",
+"Tag.Functional Analysis & Design",
+"Title.AE Hackathon: Meet the ideas",
+"Author.AE admin",
+"Title.Why a hackathon is not a game",
+"Author.Valerie Taerwe",
+"Tag.Digital Reference Architecture",
+"Date.2014-11",
+"Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"Author.Glenn Dejaeger",
+"Tag.AngularJS",
+"Date.2014-10",
+"Tag.Conference",
+"Title.Fronteers 2014 Takeaways",
+"Tag.CSS",
+"Tag.JavaScript",
+"Title.Techorama 2014 takeaways",
+"Author.Jo Van Eyck",
+"Tag.ALM & SDLC",
+"Date.2014-06",
+"Tag.Security",
+"Tag.Web Development",
+"Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Tag.Composite Index",
+"Tag.Covering Index",
+"Tag.Database",
+"Tag.Execution Plan",
+"Tag.Indexes",
+"Tag.Query Optimisation",
+"Tag.SQL Server",
+"Title.The Road to Continuous Delivery",
+"Tag.Agile",
+"Date.2014-01",
+"Tag.Project Management" 
+] 
+},
+{
+ "name": "Categorie.Information Management",
+"size":      0,
+"imports": [
+ "Title.The beer coaster analysis",
+"Author.Tom Princen",
+"Tag.Business Analysis",
+"Date.2014-11",
+"Tag.Functional Analysis & Design",
+"Tag.Requirements",
+"Title.Why is your documentation getting out of date?",
+"Author.Sarah Denayer",
+"Tag.Documentation",
+"Date.2014-08",
+"Title.Why Everbody is Talking Analytics but Nobody is Doing it?",
+"Author.Bram Vanschoenwinkel",
+"Tag.Analytics & Business Intelligence",
+"Tag.Big Data & Analytics",
+"Tag.Innovation",
+"Title.Google says your site is naughty",
+"Author.Tom Devos",
+"Tag.Google",
+"Date.2014-07",
+"Tag.SEO",
+"Title.The Product vs Project dimension",
+"Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Tag.Composite Index",
+"Date.2014-06",
+"Tag.Covering Index",
+"Tag.Database",
+"Tag.Execution Plan",
+"Tag.Indexes",
+"Tag.Query Optimisation",
+"Tag.SQL Server",
+"Title.Identify the stakeholders of your analysis",
+"Date.2014-05",
+"Title.Please stop writing 200 page documents",
+"Date.2014-04",
+"Title.Uw gegevens zijn uw reputatie",
+"Author.Guido Van Humbeeck",
+"Tag.Customer Centric",
+"Tag.Strategy",
+"Title.Requirements are dead",
+"Author.Robrecht David",
+"Date.2014-02",
+"Title.Are user stories and use cases at war?",
+"Tag.Use Cases",
+"Tag.User Stories",
+"Title.Business requirement or atomic requirement?",
+"Date.2014-01",
+"Title.Informatie modelleren was, is en zal zijn",
+"Author.Geert Sprengers",
+"Date.2012-11" 
+] 
+},
+{
+ "name": "Categorie.Speciale Reserve Categorie",
+"size":      0,
+"imports": [
+ "Title.4 BMC tools compared - Draft",
+"Author.Frederik Willaert",
+"Tag.-",
+"Date.2014-08",
+"Title.The visitor pattern in C#, part I - Draft",
+"Author.Jeroen Haegebaert",
+"Date.2014-06",
+"Title.The value driven PM lifecycle - Draft",
+"Author.Filip Hendrickx",
+"Title.Enterprise Architect, from policeman to entrepreneur? - Draft",
+"Author.Johan Merckx",
+"Date.2014-05",
+"Title.Customer Journeys - Are we really going outside in? - Draft",
+"Tag.Customer Journey" 
+] 
+},
+{
+ "name": "Tag.AE Foyer",
+"size":      0,
+"imports": [
+ "Title.But do you love it?",
+"Author.Roman Verraest",
+"Categorie.Business Consulting",
+"Date.2014-12",
+"Categorie.Enterprise Architecture" 
+] 
+},
+{
+ "name": "Tag.Business Architecture",
+"size":      0,
+"imports": [
+ "Title.But do you love it?",
+"Author.Roman Verraest",
+"Categorie.Business Consulting",
+"Date.2014-12",
+"Categorie.Enterprise Architecture",
+"Title.Customer journeys as a strategy guide",
+"Author.Filip Hendrickx",
+"Date.2014-10",
+"Title.EACBPM 2014 - Some conference themes",
+"Date.2014-06",
+"Title.From Organisation to Customer Centric",
+"Author.Johan Merckx",
+"Title.Simplicity and change",
+"Date.2013-09" 
+] 
+},
+{
+ "name": "Tag.Customer Journey",
+"size":      0,
+"imports": [
+ "Title.But do you love it?",
+"Author.Roman Verraest",
+"Categorie.Business Consulting",
+"Date.2014-12",
+"Categorie.Enterprise Architecture",
+"Title.5 Questions about the challenges in the energy sector",
+"Author.Brigitte Narmon",
+"Date.2015-02",
+"Title.7 Deadly Sins for the CEO",
+"Author.Guido Van Humbeeck",
+"Date.2015-01",
+"Title.Does your customer care about his journey and your touch points?",
+"Author.Filip Hendrickx",
+"Title.New Customer Experience Insights: Go dining!",
+"Author.Tom Devos",
+"Date.2014-11",
+"Title.Journeys and touch points: two sides of the same coin",
+"Title.Customer journeys as a strategy guide",
+"Date.2014-10",
+"Title.Why people don't buy your product online",
+"Title.Customer Centricity - What about Technology?",
+"Author.Johan Merckx",
+"Date.2014-07",
+"Title.Customer Centricity - Turning your business model around",
+"Date.2014-06",
+"Title.Customer Journeys - Are we really going outside in? - Draft",
+"Categorie.Speciale Reserve Categorie",
+"Date.2014-05" 
+] 
+},
+{
+ "name": "Tag.Business Analysis",
+"size":      0,
+"imports": [
+ "Title.Why not add some 'WHY' to your decision documents?",
+"Author.Wim Van Emelen",
+"Categorie.Business Consulting",
+"Date.2015-02",
+"Categorie.Enterprise Architecture",
+"Categorie.Software Engineering",
+"Title.Does your customer care about his journey and your touch points?",
+"Author.Filip Hendrickx",
+"Date.2014-12",
+"Title.The Hackathon: Intrapreneurship's Dry Run",
+"Author.Jasper Verplanken",
+"Title.The beer coaster analysis",
+"Author.Tom Princen",
+"Categorie.Information Management",
+"Date.2014-11",
+"Title.New Customer Experience Insights: Go dining!",
+"Author.Tom Devos",
+"Title.Journeys and touch points: two sides of the same coin",
+"Title.Customer journeys as a strategy guide",
+"Date.2014-10",
+"Title.Make Your Workshop Live",
+"Author.Igor Torfs",
+"Title.Why people don't buy your product online",
+"Title.Customer Centricity - What about Technology?",
+"Author.Johan Merckx",
+"Date.2014-07",
+"Title.Customer Centricity - Turning your business model around",
+"Date.2014-06",
+"Title.From Organisation to Customer Centric",
+"Title.Please stop writing 200 page documents",
+"Author.Sarah Denayer",
+"Date.2014-04",
+"Title.Requirements are dead",
+"Author.Robrecht David",
+"Date.2014-02",
+"Title.Are user stories and use cases at war?",
+"Title.Business requirement or atomic requirement?",
+"Date.2014-01",
+"Title.Nieuwjaarsbrief van ICT",
+"Author.Guido Van Humbeeck",
+"Date.2013-01",
+"Title.Informatie modelleren was, is en zal zijn",
+"Author.Geert Sprengers",
+"Date.2012-11" 
+] 
+},
+{
+ "name": "Tag.Business value",
+"size":      1,
+"imports": [
+ "Title.Why not add some 'WHY' to your decision documents?",
+"Author.Wim Van Emelen",
+"Categorie.Business Consulting",
+"Date.2015-02",
+"Categorie.Enterprise Architecture",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.first time right",
+"size":      1,
+"imports": [
+ "Title.Why not add some 'WHY' to your decision documents?",
+"Author.Wim Van Emelen",
+"Categorie.Business Consulting",
+"Date.2015-02",
+"Categorie.Enterprise Architecture",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Digital Reference Architecture",
+"size":      1,
+"imports": [
+ "Title.5 Questions about the challenges in the energy sector",
+"Author.Brigitte Narmon",
+"Categorie.Business Consulting",
+"Date.2015-02",
+"Title.Why a hackathon is not a game",
+"Author.Valerie Taerwe",
+"Date.2014-11",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.energy",
+"size":      1,
+"imports": [
+ "Title.5 Questions about the challenges in the energy sector",
+"Author.Brigitte Narmon",
+"Categorie.Business Consulting",
+"Date.2015-02" 
+] 
+},
+{
+ "name": "Tag.outside-in",
+"size":      0,
+"imports": [
+ "Title.5 Questions about the challenges in the energy sector",
+"Author.Brigitte Narmon",
+"Categorie.Business Consulting",
+"Date.2015-02",
+"Title.The AE Blog: Looking back and looking forward",
+"Author.AE admin",
+"Date.2015-01" 
+] 
+},
+{
+ "name": "Tag.Front-End Engineering",
+"size":      5,
+"imports": [
+ "Title.Offline first: as simple as unplug & play?",
+"Author.Thomas Anciaux",
+"Categorie.Software Engineering",
+"Date.2015-01",
+"Title.Why a hackathon is not a game",
+"Author.Valerie Taerwe",
+"Categorie.Business Consulting",
+"Date.2014-11",
+"Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"Author.Glenn Dejaeger",
+"Date.2014-10" 
+] 
+},
+{
+ "name": "Tag.HTML5",
+"size":      0,
+"imports": [
+ "Title.Offline first: as simple as unplug & play?",
+"Author.Thomas Anciaux",
+"Categorie.Software Engineering",
+"Date.2015-01",
+"Title.Fronteers 2014 Takeaways",
+"Date.2014-10" 
+] 
+},
+{
+ "name": "Tag.Customer Centric",
+"size":      0,
+"imports": [
+ "Title.7 Deadly Sins for the CEO",
+"Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Date.2015-01",
+"Title.Does your customer care about his journey and your touch points?",
+"Author.Filip Hendrickx",
+"Date.2014-12",
+"Title.New Customer Experience Insights: Go dining!",
+"Author.Tom Devos",
+"Date.2014-11",
+"Title.Journeys and touch points: two sides of the same coin",
+"Title.Customer journeys as a strategy guide",
+"Date.2014-10",
+"Title.Customer Centricity - What about Technology?",
+"Author.Johan Merckx",
+"Date.2014-07",
+"Title.Customer Centricity - Turning your business model around",
+"Date.2014-06",
+"Title.From Organisation to Customer Centric",
+"Title.Uw gegevens zijn uw reputatie",
+"Categorie.Information Management",
+"Date.2014-04",
+"Title.Take an Outside-in Perspective",
+"Categorie.Enterprise Architecture",
+"Date.2014-02" 
+] 
+},
+{
+ "name": "Tag.Outside-In Architecture",
+"size":      1,
+"imports": [
+ "Title.Does your customer care about his journey and your touch points?",
+"Author.Filip Hendrickx",
+"Categorie.Business Consulting",
+"Date.2014-12",
+"Title.Journeys and touch points: two sides of the same coin",
+"Date.2014-11",
+"Title.Customer journeys as a strategy guide",
+"Date.2014-10",
+"Title.Why people don't buy your product online",
+"Author.Tom Devos",
+"Title.Relationsh<U+200B>ips, the essence of Outside-In Thinking",
+"Author.Frederik Willaert",
+"Categorie.Enterprise Architecture",
+"Date.2014-08",
+"Title.EA on its own delivers no value",
+"Author.Johan Merckx",
+"Date.2014-02",
+"Title.Take an Outside-in Perspective",
+"Title.Push to add drama: CXO-lunch met Jan Dobbenie",
+"Author.Guido Van Humbeeck",
+"Date.2014-01" 
+] 
+},
+{
+ "name": "Tag.Innovation",
+"size":      0,
+"imports": [
+ "Title.The Hackathon: Intrapreneurship's Dry Run",
+"Author.Jasper Verplanken",
+"Categorie.Business Consulting",
+"Date.2014-12",
+"Categorie.Software Engineering",
+"Title.AE Hackathon: Meet the ideas",
+"Author.AE admin",
+"Title.Why a hackathon is not a game",
+"Author.Valerie Taerwe",
+"Date.2014-11",
+"Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"Author.Glenn Dejaeger",
+"Date.2014-10",
+"Title.Why Everbody is Talking Analytics but Nobody is Doing it?",
+"Author.Bram Vanschoenwinkel",
+"Categorie.Information Management",
+"Date.2014-08",
+"Title.Push to add drama: CXO-lunch met Jan Dobbenie",
+"Author.Guido Van Humbeeck",
+"Date.2014-01",
+"Title.Simplicity and change",
+"Author.Filip Hendrickx",
+"Date.2013-09",
+"Title.Open brief aan de CEO",
+"Date.2013-06",
+"Title.ICT-groeten uit Barcelona",
+"Date.2012-12" 
+] 
+},
+{
+ "name": "Tag.Intrapreneurship",
+"size":      2,
+"imports": [
+ "Title.The Hackathon: Intrapreneurship's Dry Run",
+"Author.Jasper Verplanken",
+"Categorie.Business Consulting",
+"Date.2014-12",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Mobile (first)",
+"size":      0,
+"imports": [
+ "Title.The Hackathon: Intrapreneurship's Dry Run",
+"Author.Jasper Verplanken",
+"Categorie.Business Consulting",
+"Date.2014-12",
+"Categorie.Software Engineering",
+"Title.Design smartphone first!",
+"Author.Sarah Denayer",
+"Title.AE Hackathon: Meet the ideas",
+"Author.AE admin",
+"Title.Why a hackathon is not a game",
+"Author.Valerie Taerwe",
+"Date.2014-11",
+"Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"Author.Glenn Dejaeger",
+"Date.2014-10",
+"Title.Fronteers 2014 Takeaways",
+"Author.Thomas Anciaux" 
+] 
+},
+{
+ "name": "Tag.Functional Analysis & Design",
+"size":      0,
+"imports": [
+ "Title.Design smartphone first!",
+"Author.Sarah Denayer",
+"Categorie.Software Engineering",
+"Date.2014-12",
+"Title.The beer coaster analysis",
+"Author.Tom Princen",
+"Categorie.Information Management",
+"Date.2014-11",
+"Title.Integration : Dr Jekyll and Mr Hyde",
+"Author.Bart Orbie",
+"Categorie.Enterprise Architecture",
+"Date.2014-09",
+"Title.Why is your documentation getting out of date?",
+"Date.2014-08",
+"Title.The Product vs Project dimension",
+"Date.2014-07",
+"Title.Identify the stakeholders of your analysis",
+"Date.2014-05" 
+] 
+},
+{
+ "name": "Tag.Requirements",
+"size":      0,
+"imports": [
+ "Title.The beer coaster analysis",
+"Author.Tom Princen",
+"Categorie.Information Management",
+"Date.2014-11",
+"Title.Please stop writing 200 page documents",
+"Author.Sarah Denayer",
+"Date.2014-04",
+"Title.Requirements are dead",
+"Author.Robrecht David",
+"Date.2014-02",
+"Title.Are user stories and use cases at war?",
+"Title.Business requirement or atomic requirement?",
+"Date.2014-01",
+"Title.Informatie modelleren was, is en zal zijn",
+"Author.Geert Sprengers",
+"Date.2012-11" 
+] 
+},
+{
+ "name": "Tag.AngularJS",
+"size":      5,
+"imports": [
+ "Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"Author.Glenn Dejaeger",
+"Categorie.Software Engineering",
+"Date.2014-10" 
+] 
+},
+{
+ "name": "Tag.Conference",
+"size":      0,
+"imports": [
+ "Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"Author.Glenn Dejaeger",
+"Categorie.Software Engineering",
+"Date.2014-10",
+"Title.Fronteers 2014 Takeaways",
+"Author.Thomas Anciaux",
+"Title.EACBPM 2014 - Some conference themes",
+"Author.Filip Hendrickx",
+"Categorie.Enterprise Architecture",
+"Date.2014-06",
+"Title.Techorama 2014 takeaways",
+"Author.Jo Van Eyck" 
+] 
+},
+{
+ "name": "Tag.CSS",
+"size":      0,
+"imports": [
+ "Title.Fronteers 2014 Takeaways",
+"Author.Thomas Anciaux",
+"Categorie.Software Engineering",
+"Date.2014-10" 
+] 
+},
+{
+ "name": "Tag.JavaScript",
+"size":      0,
+"imports": [
+ "Title.Fronteers 2014 Takeaways",
+"Author.Thomas Anciaux",
+"Categorie.Software Engineering",
+"Date.2014-10" 
+] 
+},
+{
+ "name": "Tag.Documentation",
+"size":      8,
+"imports": [
+ "Title.Make Your Workshop Live",
+"Author.Igor Torfs",
+"Categorie.Business Consulting",
+"Date.2014-10",
+"Title.Why is your documentation getting out of date?",
+"Author.Sarah Denayer",
+"Categorie.Information Management",
+"Date.2014-08",
+"Title.The Product vs Project dimension",
+"Date.2014-07" 
+] 
+},
+{
+ "name": "Tag.Business Driven EA",
+"size":      2,
+"imports": [
+ "Title.Integration : Dr Jekyll and Mr Hyde",
+"Author.Bart Orbie",
+"Categorie.Enterprise Architecture",
+"Date.2014-09",
+"Title.Relationsh<U+200B>ips, the essence of Outside-In Thinking",
+"Author.Frederik Willaert",
+"Date.2014-08",
+"Title.EACBPM 2014 - Some conference themes",
+"Author.Filip Hendrickx",
+"Date.2014-06",
+"Title.Some take aways from the 23rd BAEA Cafe with Chris Potts",
+"Date.2014-05" 
+] 
+},
+{
+ "name": "Tag.Integration",
+"size":      2,
+"imports": [
+ "Title.Integration : Dr Jekyll and Mr Hyde",
+"Author.Bart Orbie",
+"Categorie.Enterprise Architecture",
+"Date.2014-09",
+"Title.Customer Centricity - What about Technology?",
+"Author.Johan Merckx",
+"Categorie.Business Consulting",
+"Date.2014-07" 
+] 
+},
+{
+ "name": "Tag.SOA",
+"size":      1,
+"imports": [
+ "Title.Integration : Dr Jekyll and Mr Hyde",
+"Author.Bart Orbie",
+"Categorie.Enterprise Architecture",
+"Date.2014-09" 
+] 
+},
+{
+ "name": "Tag.ALM & SDLC",
+"size":      0,
+"imports": [
+ "Title.ALM benefits",
+"Author.Frederick Beernaert",
+"Categorie.Enterprise Architecture",
+"Date.2014-09",
+"Title.ALM - How to increase maturity in software delivery?",
+"Title.ALM - From business idea to working software",
+"Title.Techorama 2014 takeaways",
+"Author.Jo Van Eyck",
+"Categorie.Software Engineering",
+"Date.2014-06" 
+] 
+},
+{
+ "name": "Tag.Predictability",
+"size":      0,
+"imports": [
+ "Title.ALM benefits",
+"Author.Frederick Beernaert",
+"Categorie.Enterprise Architecture",
+"Date.2014-09",
+"Title.ALM - From business idea to working software" 
+] 
+},
+{
+ "name": "Tag.Agile",
+"size":      0,
+"imports": [
+ "Title.10 ways to make Scrum fail",
+"Author.Glenn Dejaeger",
+"Categorie.Business Consulting",
+"Date.2014-08",
+"Title.The Road to Continuous Delivery",
+"Author.Jo Van Eyck",
+"Categorie.Enterprise Architecture",
+"Date.2014-01",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Project Management",
+"size":      0,
+"imports": [
+ "Title.10 ways to make Scrum fail",
+"Author.Glenn Dejaeger",
+"Categorie.Business Consulting",
+"Date.2014-08",
+"Title.Some take aways from the 23rd BAEA Cafe with Chris Potts",
+"Author.Filip Hendrickx",
+"Categorie.Enterprise Architecture",
+"Date.2014-05",
+"Title.Business Cases: getting money or creating value?",
+"Author.Johan Merckx",
+"Title.The Road to Continuous Delivery",
+"Author.Jo Van Eyck",
+"Date.2014-01",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Scrum",
+"size":      0,
+"imports": [
+ "Title.10 ways to make Scrum fail",
+"Author.Glenn Dejaeger",
+"Categorie.Business Consulting",
+"Date.2014-08" 
+] 
+},
+{
+ "name": "Tag.-",
+"size":      0,
+"imports": [
+ "Title.4 BMC tools compared - Draft",
+"Author.Frederik Willaert",
+"Categorie.Speciale Reserve Categorie",
+"Date.2014-08",
+"Title.The visitor pattern in C#, part I - Draft",
+"Author.Jeroen Haegebaert",
+"Date.2014-06",
+"Title.The value driven PM lifecycle - Draft",
+"Author.Filip Hendrickx",
+"Title.Enterprise Architect, from policeman to entrepreneur? - Draft",
+"Author.Johan Merckx",
+"Date.2014-05" 
+] 
+},
+{
+ "name": "Tag.Analytics & Business Intelligence",
+"size":      2,
+"imports": [
+ "Title.Why Everbody is Talking Analytics but Nobody is Doing it?",
+"Author.Bram Vanschoenwinkel",
+"Categorie.Information Management",
+"Date.2014-08" 
+] 
+},
+{
+ "name": "Tag.Big Data & Analytics",
+"size":      2,
+"imports": [
+ "Title.Why Everbody is Talking Analytics but Nobody is Doing it?",
+"Author.Bram Vanschoenwinkel",
+"Categorie.Information Management",
+"Date.2014-08" 
+] 
+},
+{
+ "name": "Tag.Google",
+"size":      0,
+"imports": [
+ "Title.Google says your site is naughty",
+"Author.Tom Devos",
+"Categorie.Information Management",
+"Date.2014-07" 
+] 
+},
+{
+ "name": "Tag.SEO",
+"size":      0,
+"imports": [
+ "Title.Google says your site is naughty",
+"Author.Tom Devos",
+"Categorie.Information Management",
+"Date.2014-07" 
+] 
+},
+{
+ "name": "Tag.Cloud & Infrastructure Industrialization",
+"size":      0,
+"imports": [
+ "Title.No need to fear Cloud Computing?",
+"Author.Aline Coelst",
+"Categorie.Business Consulting",
+"Date.2014-07",
+"Title.From server virtualization to hybrid cloud",
+"Author.Wim Haedens" 
+] 
+},
+{
+ "name": "Tag.Legal",
+"size":      0,
+"imports": [
+ "Title.No need to fear Cloud Computing?",
+"Author.Aline Coelst",
+"Categorie.Business Consulting",
+"Date.2014-07" 
+] 
+},
+{
+ "name": "Tag.Business Process Management",
+"size":      0,
+"imports": [
+ "Title.EACBPM 2014 - Some conference themes",
+"Author.Filip Hendrickx",
+"Categorie.Enterprise Architecture",
+"Date.2014-06" 
+] 
+},
+{
+ "name": "Tag.Security",
+"size":      0,
+"imports": [
+ "Title.Techorama 2014 takeaways",
+"Author.Jo Van Eyck",
+"Categorie.Software Engineering",
+"Date.2014-06" 
+] 
+},
+{
+ "name": "Tag.Web Development",
+"size":      0,
+"imports": [
+ "Title.Techorama 2014 takeaways",
+"Author.Jo Van Eyck",
+"Categorie.Software Engineering",
+"Date.2014-06" 
+] 
+},
+{
+ "name": "Tag.Composite Index",
+"size":      1,
+"imports": [
+ "Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Categorie.Information Management",
+"Date.2014-06",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Covering Index",
+"size":      1,
+"imports": [
+ "Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Categorie.Information Management",
+"Date.2014-06",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Database",
+"size":      1,
+"imports": [
+ "Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Categorie.Information Management",
+"Date.2014-06",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Execution Plan",
+"size":      1,
+"imports": [
+ "Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Categorie.Information Management",
+"Date.2014-06",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Indexes",
+"size":      1,
+"imports": [
+ "Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Categorie.Information Management",
+"Date.2014-06",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Query Optimisation",
+"size":      1,
+"imports": [
+ "Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Categorie.Information Management",
+"Date.2014-06",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.SQL Server",
+"size":      1,
+"imports": [
+ "Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Categorie.Information Management",
+"Date.2014-06",
+"Categorie.Software Engineering" 
+] 
+},
+{
+ "name": "Tag.Strategy",
+"size":      0,
+"imports": [
+ "Title.Some take aways from the 23rd BAEA Cafe with Chris Potts",
+"Author.Filip Hendrickx",
+"Categorie.Enterprise Architecture",
+"Date.2014-05",
+"Title.Uw gegevens zijn uw reputatie",
+"Author.Guido Van Humbeeck",
+"Categorie.Information Management",
+"Date.2014-04",
+"Title.EA on its own delivers no value",
+"Author.Johan Merckx",
+"Date.2014-02",
+"Title.Open brief aan de CEO",
+"Categorie.Business Consulting",
+"Date.2013-06",
+"Title.Nieuwjaarsbrief van ICT",
+"Date.2013-01",
+"Title.ICT-groeten uit Barcelona",
+"Date.2012-12" 
+] 
+},
+{
+ "name": "Tag.Use Cases",
+"size":      0,
+"imports": [
+ "Title.Are user stories and use cases at war?",
+"Author.Sarah Denayer",
+"Categorie.Information Management",
+"Date.2014-02" 
+] 
+},
+{
+ "name": "Tag.User Stories",
+"size":      0,
+"imports": [
+ "Title.Are user stories and use cases at war?",
+"Author.Sarah Denayer",
+"Categorie.Information Management",
+"Date.2014-02" 
+] 
+},
+{
+ "name": "Date.2014-12",
+"size":      0,
+"imports": [
+ "Title.But do you love it?",
+"Author.Roman Verraest",
+"Categorie.Business Consulting",
+"Tag.AE Foyer",
+"Tag.Business Architecture",
+"Tag.Customer Journey",
+"Categorie.Enterprise Architecture",
+"Title.Does your customer care about his journey and your touch points?",
+"Author.Filip Hendrickx",
+"Tag.Business Analysis",
+"Tag.Customer Centric",
+"Tag.Outside-In Architecture",
+"Title.The Hackathon: Intrapreneurship's Dry Run",
+"Author.Jasper Verplanken",
+"Tag.Innovation",
+"Tag.Intrapreneurship",
+"Tag.Mobile (first)",
+"Categorie.Software Engineering",
+"Title.Design smartphone first!",
+"Author.Sarah Denayer",
+"Tag.Functional Analysis & Design",
+"Title.AE Hackathon: Meet the ideas",
+"Author.AE admin" 
+] 
+},
+{
+ "name": "Date.2015-02",
+"size":      1,
+"imports": [
+ "Title.Why not add some 'WHY' to your decision documents?",
+"Author.Wim Van Emelen",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Tag.Business value",
+"Tag.first time right",
+"Categorie.Enterprise Architecture",
+"Categorie.Software Engineering",
+"Title.5 Questions about the challenges in the energy sector",
+"Author.Brigitte Narmon",
+"Tag.Customer Journey",
+"Tag.Digital Reference Architecture",
+"Tag.energy",
+"Tag.outside-in" 
+] 
+},
+{
+ "name": "Date.2015-01",
+"size":      0,
+"imports": [
+ "Title.The AE Blog: Looking back and looking forward",
+"Author.AE admin",
+"Categorie.Business Consulting",
+"Tag.outside-in",
+"Title.Offline first: as simple as unplug & play?",
+"Author.Thomas Anciaux",
+"Categorie.Software Engineering",
+"Tag.Front-End Engineering",
+"Tag.HTML5",
+"Title.7 Deadly Sins for the CEO",
+"Author.Guido Van Humbeeck",
+"Tag.Customer Centric",
+"Tag.Customer Journey" 
+] 
+},
+{
+ "name": "Date.2014-11",
+"size":      1,
+"imports": [
+ "Title.The beer coaster analysis",
+"Author.Tom Princen",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Tag.Functional Analysis & Design",
+"Tag.Requirements",
+"Title.New Customer Experience Insights: Go dining!",
+"Author.Tom Devos",
+"Categorie.Business Consulting",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Title.Why a hackathon is not a game",
+"Author.Valerie Taerwe",
+"Tag.Digital Reference Architecture",
+"Tag.Front-End Engineering",
+"Tag.Innovation",
+"Tag.Mobile (first)",
+"Categorie.Software Engineering",
+"Title.Journeys and touch points: two sides of the same coin",
+"Author.Filip Hendrickx",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Date.2014-10",
+"size":      0,
+"imports": [
+ "Title.ng-europe 2014: interesting evolutions in the AngularJs world",
+"Author.Glenn Dejaeger",
+"Categorie.Software Engineering",
+"Tag.AngularJS",
+"Tag.Conference",
+"Tag.Front-End Engineering",
+"Tag.Innovation",
+"Tag.Mobile (first)",
+"Title.Customer journeys as a strategy guide",
+"Author.Filip Hendrickx",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Tag.Business Architecture",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Tag.Outside-In Architecture",
+"Title.Fronteers 2014 Takeaways",
+"Author.Thomas Anciaux",
+"Tag.CSS",
+"Tag.HTML5",
+"Tag.JavaScript",
+"Title.Make Your Workshop Live",
+"Author.Igor Torfs",
+"Tag.Documentation",
+"Title.Why people don't buy your product online",
+"Author.Tom Devos" 
+] 
+},
+{
+ "name": "Date.2014-09",
+"size":      0,
+"imports": [
+ "Title.Integration : Dr Jekyll and Mr Hyde",
+"Author.Bart Orbie",
+"Categorie.Enterprise Architecture",
+"Tag.Business Driven EA",
+"Tag.Functional Analysis & Design",
+"Tag.Integration",
+"Tag.SOA",
+"Title.ALM benefits",
+"Author.Frederick Beernaert",
+"Tag.ALM & SDLC",
+"Tag.Predictability",
+"Title.ALM - How to increase maturity in software delivery?",
+"Title.ALM - From business idea to working software" 
+] 
+},
+{
+ "name": "Date.2014-08",
+"size":      2,
+"imports": [
+ "Title.10 ways to make Scrum fail",
+"Author.Glenn Dejaeger",
+"Categorie.Business Consulting",
+"Tag.Agile",
+"Tag.Project Management",
+"Tag.Scrum",
+"Title.Why is your documentation getting out of date?",
+"Author.Sarah Denayer",
+"Categorie.Information Management",
+"Tag.Documentation",
+"Tag.Functional Analysis & Design",
+"Title.Relationsh<U+200B>ips, the essence of Outside-In Thinking",
+"Author.Frederik Willaert",
+"Categorie.Enterprise Architecture",
+"Tag.Business Driven EA",
+"Tag.Outside-In Architecture",
+"Title.4 BMC tools compared - Draft",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Title.Why Everbody is Talking Analytics but Nobody is Doing it?",
+"Author.Bram Vanschoenwinkel",
+"Tag.Analytics & Business Intelligence",
+"Tag.Big Data & Analytics",
+"Tag.Innovation" 
+] 
+},
+{
+ "name": "Date.2014-07",
+"size":      2,
+"imports": [
+ "Title.Google says your site is naughty",
+"Author.Tom Devos",
+"Categorie.Information Management",
+"Tag.Google",
+"Tag.SEO",
+"Title.No need to fear Cloud Computing?",
+"Author.Aline Coelst",
+"Categorie.Business Consulting",
+"Tag.Cloud & Infrastructure Industrialization",
+"Tag.Legal",
+"Title.From server virtualization to hybrid cloud",
+"Author.Wim Haedens",
+"Title.The Product vs Project dimension",
+"Author.Sarah Denayer",
+"Tag.Documentation",
+"Tag.Functional Analysis & Design",
+"Title.Customer Centricity - What about Technology?",
+"Author.Johan Merckx",
+"Tag.Business Analysis",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Tag.Integration" 
+] 
+},
+{
+ "name": "Date.2014-06",
+"size":      0,
+"imports": [
+ "Title.Customer Centricity - Turning your business model around",
+"Author.Johan Merckx",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Tag.Customer Centric",
+"Tag.Customer Journey",
+"Title.EACBPM 2014 - Some conference themes",
+"Author.Filip Hendrickx",
+"Categorie.Enterprise Architecture",
+"Tag.Business Architecture",
+"Tag.Business Driven EA",
+"Tag.Business Process Management",
+"Tag.Conference",
+"Title.From Organisation to Customer Centric",
+"Title.Techorama 2014 takeaways",
+"Author.Jo Van Eyck",
+"Categorie.Software Engineering",
+"Tag.ALM & SDLC",
+"Tag.Security",
+"Tag.Web Development",
+"Title.The visitor pattern in C#, part I - Draft",
+"Author.Jeroen Haegebaert",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Title.How to use Composite Indexes",
+"Author.Gert Nelissen",
+"Categorie.Information Management",
+"Tag.Composite Index",
+"Tag.Covering Index",
+"Tag.Database",
+"Tag.Execution Plan",
+"Tag.Indexes",
+"Tag.Query Optimisation",
+"Tag.SQL Server",
+"Title.The value driven PM lifecycle - Draft" 
+] 
+},
+{
+ "name": "Date.2014-05",
+"size":      0,
+"imports": [
+ "Title.Enterprise Architect, from policeman to entrepreneur? - Draft",
+"Author.Johan Merckx",
+"Categorie.Speciale Reserve Categorie",
+"Tag.-",
+"Title.Some take aways from the 23rd BAEA Cafe with Chris Potts",
+"Author.Filip Hendrickx",
+"Categorie.Enterprise Architecture",
+"Tag.Business Driven EA",
+"Tag.Project Management",
+"Tag.Strategy",
+"Title.Customer Journeys - Are we really going outside in? - Draft",
+"Tag.Customer Journey",
+"Title.Business Cases: getting money or creating value?",
+"Categorie.Business Consulting",
+"Title.Identify the stakeholders of your analysis",
+"Author.Sarah Denayer",
+"Categorie.Information Management",
+"Tag.Functional Analysis & Design" 
+] 
+},
+{
+ "name": "Date.2014-04",
+"size":      0,
+"imports": [
+ "Title.Please stop writing 200 page documents",
+"Author.Sarah Denayer",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Tag.Requirements",
+"Title.Uw gegevens zijn uw reputatie",
+"Author.Guido Van Humbeeck",
+"Tag.Customer Centric",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Date.2014-02",
+"size":      0,
+"imports": [
+ "Title.EA on its own delivers no value",
+"Author.Johan Merckx",
+"Categorie.Enterprise Architecture",
+"Tag.Outside-In Architecture",
+"Tag.Strategy",
+"Title.Requirements are dead",
+"Author.Robrecht David",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Tag.Requirements",
+"Title.Take an Outside-in Perspective",
+"Tag.Customer Centric",
+"Title.Are user stories and use cases at war?",
+"Author.Sarah Denayer",
+"Tag.Use Cases",
+"Tag.User Stories" 
+] 
+},
+{
+ "name": "Date.2014-01",
+"size":      1,
+"imports": [
+ "Title.Business requirement or atomic requirement?",
+"Author.Robrecht David",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Tag.Requirements",
+"Title.The Road to Continuous Delivery",
+"Author.Jo Van Eyck",
+"Categorie.Enterprise Architecture",
+"Tag.Agile",
+"Tag.Project Management",
+"Categorie.Software Engineering",
+"Title.Push to add drama: CXO-lunch met Jan Dobbenie",
+"Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Innovation",
+"Tag.Outside-In Architecture" 
+] 
+},
+{
+ "name": "Date.2013-09",
+"size":      0,
+"imports": [
+ "Title.Simplicity and change",
+"Author.Filip Hendrickx",
+"Categorie.Business Consulting",
+"Tag.Business Architecture",
+"Tag.Innovation" 
+] 
+},
+{
+ "name": "Date.2013-06",
+"size":      0,
+"imports": [
+ "Title.Open brief aan de CEO",
+"Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Innovation",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Date.2013-01",
+"size":      0,
+"imports": [
+ "Title.Nieuwjaarsbrief van ICT",
+"Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Business Analysis",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Date.2012-12",
+"size":      0,
+"imports": [
+ "Title.ICT-groeten uit Barcelona",
+"Author.Guido Van Humbeeck",
+"Categorie.Business Consulting",
+"Tag.Innovation",
+"Tag.Strategy" 
+] 
+},
+{
+ "name": "Date.2012-11",
+"size":      0,
+"imports": [
+ "Title.Informatie modelleren was, is en zal zijn",
+"Author.Geert Sprengers",
+"Categorie.Information Management",
+"Tag.Business Analysis",
+"Tag.Requirements" 
+] 
+} 
+]
